@@ -1,0 +1,28 @@
+# System Files
+.DS_Store
+Thumbs.db
+*.swp
+
+# Python Environment
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+ENV/
+build/
+dist/
+*.egg-info/
+
+# Project Specific
+*.html
+local_environment
+*.ignore
+.gemini/
+
+# IDEs
+.vscode/
+.idea/
