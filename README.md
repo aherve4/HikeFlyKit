@@ -11,6 +11,15 @@
 
 **HikeFlyKit** is a paragliding tracking analysis tool designed specifically for **Hike & Fly** practitioners. It provides global performance insights for a collection of tracks and enabled to have a detailed view of each track.
 
+Global view of a collection of tracks:
+![image](assets/global_view.png)
+
+Track view (first part):
+![image](assets/file_view_1.png)
+
+Track view (second part):
+![image](assets/file_view_2.png)
+
 ## Features
 - **Intelligent Segmentation**: Automatically splits tracks into Walk and Flight phases using speed and vertical rate triggers.
 
